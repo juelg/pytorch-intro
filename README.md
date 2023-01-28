@@ -5,7 +5,7 @@ Furthermore, the repo also includes pytorch [exercises](pytorch_exercise.ipynb) 
 ## Citation
 ```
 @misc{Juelg2022,
-  author = {Juelg, Tobias},
+  author = {Jülg, Tobias},
   title = {PyTorch Introduction with Exercises and Additional Theory on Weight Initialization and Optimizers for Deep Neural Networks},
   year = {2022},
   publisher = {GitHub},
